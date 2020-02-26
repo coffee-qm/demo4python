@@ -1,0 +1,14 @@
+<root>
+    <person>
+        <name>Q</name>
+        <age>22</age>
+        <sex>boy</sex>
+        <comments>developer</comments>
+    </person>
+    <person>
+        <name>X</name>
+        <age>15</age>
+        <sex>girl</sex>
+        <comments>developer</comments>
+    </person>
+</root>
